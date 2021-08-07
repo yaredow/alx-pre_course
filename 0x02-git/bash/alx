@@ -1,6 +1,3 @@
-#!/bin/bash
-<<<<<<< HEAD
-echo "ALX school"
-=======
-echo "ALX school is so cool"
->>>>>>> master
+
+0;276;0c#!/bin/bash
+echo "ALX scool"
