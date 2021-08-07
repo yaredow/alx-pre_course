@@ -1,3 +1,2 @@
-
-0;276;0c#!/bin/bash
-echo "ALX scool"
+#!/bin/bash
+echo "ALX scool is so cool"
